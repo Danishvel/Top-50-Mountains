@@ -1,0 +1,22 @@
+body{
+    background-image: url("mountain.png");
+}
+.heading_div{
+    box-shadow: 5px 5px 5px goldenrod;
+    background-color: honeydew;
+    color: darkturquoise;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: 90px;
+}
+.mount{
+    border-radius: 125px;
+    border: 5px ridge blue;
+    text-align: center;
+    background-color: lightgreen;
+    box-shadow: 10px 10px 20px blue;
+}
+.mount img{
+    width: 200px;
+    height: 200px;
+}
